@@ -5,8 +5,8 @@
   <DefaultSchema>dbo</DefaultSchema>
   <DefaultUser>dbo</DefaultUser>
   <DefaultFilegroup>PRIMARY</DefaultFilegroup>
-  <DatabaseVersion>15</DatabaseVersion>
-  <IsAzure>True</IsAzure>
+  <DatabaseVersion>14</DatabaseVersion>
+  <IsAzure>False</IsAzure>
   <ScriptFolderType>Default</ScriptFolderType>
   <MaxDataFileSize>10485760</MaxDataFileSize>
   <ProjectGuid>040b2119-39e1-48d5-bb88-8342a55eb5aa</ProjectGuid>
